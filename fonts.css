@@ -1,0 +1,244 @@
+/* <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
+*/
+.raleway-uniquifier {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.raleway {
+  font-family: "Raleway";
+}
+
+.montserrat {
+  font-family: "Montserrat";
+}
+
+.weigth-100 {
+  font-weight: 100;
+}
+
+.weigth-200 {
+  font-weight: 200;
+}
+
+.weigth-300 {
+  font-weight: 300;
+}
+
+.weigth-400 {
+  font-weight: 400;
+}
+
+.weigth-500 {
+  font-weight: 500;
+}
+
+.weigth-600 {
+  font-weight: 600;
+}
+
+.weigth-700 {
+  font-weight: 700;
+}
+
+.weigth-800 {
+  font-weight: 800;
+}
+
+.weigth-900 {
+  font-weight: 900;
+}
+
+.size-20 {
+  font-size: 20px;
+}
+
+.size-30 {
+  font-size: 30px;
+}
+
+.size-40 {
+  font-size: 40px;
+}
+
+.size-50 {
+  font-size: 50px;
+}
+
+.white{
+  color: white;
+}
+
+.black{
+  color: black;
+}
+
+.laranja{
+  color: #A8361D;
+}
+
+
+.CTA-1{
+  background-color: #A8361D;
+  border-radius: 5px;
+  border: none;
+  padding: 10px 20px;
+  width: 400px;
+  cursor:pointer;
+  font-size: 20px;
+  color:white;
+
+
+}
+
+@media (max-width:450px) {
+  .CTA-1{
+    width: 80vw;
+  }
+
+}
+servicos > div:last-of-type{
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  gap: 120px;
+  align-items: center;
+  justify-content: center;
+  margin: 100px auto;
+}
+.title-1{
+  font-family: "Raleway";
+  font-size: 17px;
+  
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 20%;
+  flex-direction: column;
+  margin: 50px auto; 
+
+}
+
+.title-1 > div{
+  width: 170px;
+  background-color: #A8361D;
+  height: 4px;
+  border-radius: 10px;
+  margin-top: 2px;
+}
+
+.title-1  p{
+  width: 700px;
+  margin-top: 30px;
+  font-size: 20px;
+}
+
+.sev-box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 400px;
+  gap: 20px;
+  text-align: center;
+  height: 350px;
+  border-radius: 10px;
+  padding: 20px 10px;
+  box-shadow: 1px 1px 61px 6px rgba(0,0,0,0.43);
+
+}
+
+.sev-box img{
+  aspect-ratio: 1/1;
+  width: 120px;
+
+}
+
+
+/*
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
+*/
+.montserrat-uniquifier {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.roboto-thin {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.roboto-light {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.roboto-regular {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.roboto-medium {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.roboto-bold {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.roboto-black {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.roboto-thin-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.roboto-light-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.roboto-regular-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.roboto-medium-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.roboto-bold-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.roboto-black-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}
