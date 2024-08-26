@@ -257,6 +257,40 @@ depoimentos {
 }
 
 
+.escolha{
+  width: 100%;
+  padding: 100px 0;
+  gap: 100px;
+  background-color: #A8361D;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  text-align: center;
+}
+.duo  {
+  color: aliceblue;
+  background-color: #A8361D;
+  margin: 0;
+padding-top: 70px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.duo > div{
+  background-color: #fff !important;
+}
+
+
+.mot-box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: aliceblue;
+
+
+}
 
 /*
 // <uniquifier>: Use a unique and descriptive class name
