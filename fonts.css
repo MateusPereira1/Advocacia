@@ -109,6 +109,10 @@
 
 }
 
+servicos .title {
+  text-decoration:none;
+}
+
 servicos>div:last-of-type {
   width: 80%;
   display: flex;
@@ -184,6 +188,7 @@ sobre {
   flex-wrap: wrap;
   width: 100%;
   margin: 50px auto;
+  margin-bottom: 0;
   gap: 50px;
 }
 
@@ -194,7 +199,7 @@ sobre h1 {
 }
 
 sobre img {
-  width: 500px;
+  width: 600px;
   border-radius: 8px;
 }
 
